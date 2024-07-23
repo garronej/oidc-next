@@ -1,6 +1,6 @@
 {
     "name": "oidc-next",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Potential nex name for oidc-spa when we have Nuxt and Next.js adapter (claming the NPM name)",
     "repository": {
         "type": "git",
